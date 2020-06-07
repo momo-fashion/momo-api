@@ -5,18 +5,16 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.io.Serializable;
-
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class BaseEntity implements Serializable {
+public class Product extends BaseEntity {
 
-    private Long id;
-
-    public boolean isNew() {
-        return this.id == null;
-    }
+    private String name;
+    private String imageUrl;
+    private Double price;
+    private Double regularPrice;
+    private Double discountPrice;
 
 }
