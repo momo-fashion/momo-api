@@ -12,7 +12,7 @@ Java Spring API - Development for Mobile &amp; Web Backend
 ### How to build
 
 1. Install latest Maven.
-2. Change directory to $ROOT directory.
+2. Change directory to project $ROOT directory.
 3. Run below command for build the project.
 
 `mvn clean`
@@ -21,7 +21,7 @@ Java Spring API - Development for Mobile &amp; Web Backend
 
 ### How to run
 
-Change directory to $ROOT/target
+Change directory to project $ROOT/target
 
 `cd target`
 
