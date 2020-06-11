@@ -1,8 +1,8 @@
-package momo.fashion.api.services.springdatajpa;
+package momo.fashion.services.springdatajpa;
 
-import momo.fashion.api.model.Product;
-import momo.fashion.api.repositories.ProductRepository;
-import momo.fashion.api.services.ProductService;
+import momo.fashion.api.v1.model.Product;
+import momo.fashion.repositories.ProductRepository;
+import momo.fashion.services.ProductService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

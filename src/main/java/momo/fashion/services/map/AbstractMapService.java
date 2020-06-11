@@ -1,6 +1,6 @@
-package momo.fashion.api.services.map;
+package momo.fashion.services.map;
 
-import momo.fashion.api.model.BaseEntity;
+import momo.fashion.api.v1.model.BaseEntity;
 
 import java.util.*;
 

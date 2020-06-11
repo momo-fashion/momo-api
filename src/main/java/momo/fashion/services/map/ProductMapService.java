@@ -1,7 +1,7 @@
-package momo.fashion.api.services.map;
+package momo.fashion.services.map;
 
-import momo.fashion.api.model.Product;
-import momo.fashion.api.services.ProductService;
+import momo.fashion.api.v1.model.Product;
+import momo.fashion.services.ProductService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

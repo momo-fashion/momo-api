@@ -1,6 +1,6 @@
-package momo.fashion.api.repositories;
+package momo.fashion.repositories;
 
-import momo.fashion.api.model.Product;
+import momo.fashion.api.v1.model.Product;
 import org.springframework.data.repository.CrudRepository;
 
 

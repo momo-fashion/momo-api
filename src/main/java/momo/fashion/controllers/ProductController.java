@@ -1,7 +1,7 @@
-package momo.fashion.api.controllers;
+package momo.fashion.controllers;
 
-import momo.fashion.api.model.Product;
-import momo.fashion.api.services.ProductService;
+import momo.fashion.api.v1.model.Product;
+import momo.fashion.services.ProductService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

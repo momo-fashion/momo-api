@@ -1,7 +1,7 @@
-package momo.fashion.api.bootstrap;
+package momo.fashion.bootstrap;
 
-import momo.fashion.api.model.Product;
-import momo.fashion.api.services.ProductService;
+import momo.fashion.api.v1.model.Product;
+import momo.fashion.services.ProductService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

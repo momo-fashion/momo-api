@@ -1,4 +1,4 @@
-package momo.fashion.api.services;
+package momo.fashion.services;
 
 import java.util.Set;
 

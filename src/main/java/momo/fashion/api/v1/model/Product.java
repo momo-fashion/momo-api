@@ -1,4 +1,4 @@
-package momo.fashion.api.model;
+package momo.fashion.api.v1.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
